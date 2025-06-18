@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo ROdrigues de Sousa 👋
+## Olá! Eu sou o Gustavo Rodrigues de Sousa 👋
 
 ### 🚀 Sobre mim
 - 💻 Desenvolvedor Web & Ciência de Dados
@@ -16,6 +16,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
